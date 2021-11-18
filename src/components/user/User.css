@@ -1,0 +1,14 @@
+.users {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    border: #292929 solid 1px;
+}
+.user {
+    display: flex;
+    margin: 5px;
+}
+.btn {
+    display: flex;
+    align-items: center;
+}
